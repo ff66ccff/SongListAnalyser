@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         网易云音乐歌单 Prompt 分析器
 // @namespace    https://tampermonkey.net/
-// @version      0.4.1
+// @version      0.4.2
 // @description 读取网易云音乐网页版歌单，支持全量歌曲、跨滚动框选、序号范围、随机抽样，并生成用于 AI 分析的 Prompt。
 // @author       ff66ccff
 // @match        https://music.163.com/*
