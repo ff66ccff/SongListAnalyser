@@ -849,10 +849,9 @@
                     const link = document.createElement('a');
                     link.href = url;
                     link.download = filename;
-                    document.body.appendChild(link);
+                    link.style.display = 'none';
                     link.click();
-                    link.remove();
-                    URL.revokeObjectURL(url);
+                    setTimeout(() => URL.revokeObjectURL(url), 1000);
                     setStatus(`已下载 ${filename}。`, 'success');
                 }
 
