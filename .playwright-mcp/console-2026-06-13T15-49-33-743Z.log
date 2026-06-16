@@ -1,0 +1,50 @@
+[   98342ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://music.163.com/:41
+[   98585ms] [LOG] {data: Array(10), code: 200} @ https://s3.music.126.net/web/s/core_bc42e8fa60eb5f1b67f0cec2b84f3c58.js?bc42e8fa60eb5f1b67f0cec2b84f3c58:143
+[   98629ms] [LOG] PiP worker render @ https://music.163.com/st/pip/lyric/inject.js:40
+[   98634ms] [ERROR] Failed to load resource: net::ERR_PROXY_CONNECTION_FAILED @ https://p1.music.126.net/DLVi_1eymwAX8gDunfd2bg==/109951165524394991.png:0
+[   98784ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.227a7af6.js:0
+[   99298ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[   99298ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[   99299ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[   99628ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://music.163.com/playlist?id=3778678:55
+[   99647ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100136ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.227a7af6.js:0
+[  100189ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100193ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100196ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100199ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100202ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100216ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100555ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  100555ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  100555ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  100738ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100743ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  100747ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  502992ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  502992ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  502992ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  508993ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  508993ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  508994ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  515001ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  515001ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  515001ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  520985ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  520985ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  520985ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  526985ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  526985ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  526985ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  532985ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  532985ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  532985ms] [WARNING] WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use @ https://st.music.163.com/device/signature/create/deviceid.js:0
+[  535209ms] [LOG]  @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.227a7af6.js:0
+[  535758ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://music.163.com/playlist?id=3778678:55
+[  536274ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://st.music.163.com/g/ct-web-login/ctWebLogin.main.0.3.7.227a7af6.js:0
+[  536399ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  536402ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  536406ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  536409ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  536414ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
+[  536417ms] [LOG] %c /./ @ https://acstatic-dun.126.net/2.7.5_602a5ad7/watchman.min.js:156
